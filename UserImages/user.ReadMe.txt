@@ -1,0 +1,3 @@
+Replace The User photograph with photograph of  authorized user(rename it as user.jpg)
+
+RUN THE fILE lOGIN.PY
